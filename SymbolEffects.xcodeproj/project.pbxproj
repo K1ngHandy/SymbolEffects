@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A7FAE51A2C86CDE500B8E529 /* Symbol_EffectsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7FAE5192C86CDE500B8E529 /* Symbol_EffectsApp.swift */; };
+		A7FAE51A2C86CDE500B8E529 /* SymbolEffectsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7FAE5192C86CDE500B8E529 /* SymbolEffectsApp.swift */; };
 		A7FAE51C2C86CDE500B8E529 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7FAE51B2C86CDE500B8E529 /* ContentView.swift */; };
 		A7FAE51E2C86CDE600B8E529 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7FAE51D2C86CDE600B8E529 /* Assets.xcassets */; };
 		A7FAE5212C86CDE600B8E529 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7FAE5202C86CDE600B8E529 /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		A7FAE5162C86CDE500B8E529 /* Symbol Effects.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Symbol Effects.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A7FAE5192C86CDE500B8E529 /* Symbol_EffectsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Symbol_EffectsApp.swift; sourceTree = "<group>"; };
+		A7FAE5192C86CDE500B8E529 /* SymbolEffectsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolEffectsApp.swift; sourceTree = "<group>"; };
 		A7FAE51B2C86CDE500B8E529 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A7FAE51D2C86CDE600B8E529 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7FAE5202C86CDE600B8E529 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		A7FAE5182C86CDE500B8E529 /* Symbol Effects */ = {
 			isa = PBXGroup;
 			children = (
-				A7FAE5192C86CDE500B8E529 /* Symbol_EffectsApp.swift */,
+				A7FAE5192C86CDE500B8E529 /* SymbolEffectsApp.swift */,
 				A7FAE51B2C86CDE500B8E529 /* ContentView.swift */,
 				A7FAE51D2C86CDE600B8E529 /* Assets.xcassets */,
 				A7FAE51F2C86CDE600B8E529 /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7FAE51C2C86CDE500B8E529 /* ContentView.swift in Sources */,
-				A7FAE51A2C86CDE500B8E529 /* Symbol_EffectsApp.swift in Sources */,
+				A7FAE51A2C86CDE500B8E529 /* SymbolEffectsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
